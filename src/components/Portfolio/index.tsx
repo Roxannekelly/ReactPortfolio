@@ -1,6 +1,6 @@
 import React from 'react'
-const Plant = require ('../assets/Plant.jpg')
-const Starbuck = require ('../assets/Starbuck.png')
+const Plant = require ('../../assets/Plant.jpg')
+const Starbuck = require ('../../assets/Starbuck.png')
 const Portfolio =()=> {
   return (
     <div>

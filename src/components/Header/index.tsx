@@ -1,6 +1,7 @@
 import React from "react";
 import About from "../About";
-const logo = require("../assets/Kelly.jpg");
+const logo = require("../../assets/Kelly.jpg");
+
 
 const Header = () => {
   return (

@@ -1,5 +1,6 @@
 import React from 'react'
-const Resume = require ('../assets/Resume.pdf')
+const Resume = require ('../../assets/Resume.pdf')
+
 const About =() =>{
   return (
     <div className='my-4'>
