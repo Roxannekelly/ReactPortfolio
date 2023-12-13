@@ -22,7 +22,7 @@ const Contact = () => {
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 320 512"
               className="w-7 h-7"
-              style={{ color: "#1877f2;" }}
+              style={{ color: "#1877f2" }}
             >
               <path
                 fill="currentColor"
@@ -36,7 +36,7 @@ const Contact = () => {
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 448 512"
               className="w-7 h-7"
-              style={{ color: "#c13584;" }}
+              style={{ color: "#c13584" }}
             >
               <path
                 fill="currentColor"
@@ -50,7 +50,7 @@ const Contact = () => {
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 512 512"
               className="w-7 h-7"
-              style={{ color: "#1da1f2;" }}
+              style={{ color: "#1da1f2" }}
             >
               <path
                 fill="currentColor"
