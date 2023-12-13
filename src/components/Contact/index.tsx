@@ -3,10 +3,8 @@ import React from "react";
 const Contact = () => {
   return (
     <div className="bg-hero text-white">
-      <h1 className="uppercase text-center text-5xl font-extrabold pb-16 ">
-        Contact
-      </h1>
-      <div className="mx-4 border-4">
+      <h1 className="uppercase text-center text-5xl font-extrabold pb-16 "></h1>
+      <div className="mx-4 lg:m-32">
         <h1 className="uppercase mb-4 font-bold text-6xl">Reach Out to us</h1>
         <p className="text-5xl text-left">
           Feel free to get in touch with me. I am always open to discussing new
@@ -63,7 +61,7 @@ const Contact = () => {
         </div>
       </div>
 
-      <div className="mx-4 my-6">
+      <div className="mx-4 my-6  lg:px-56 lg:py-10">
         <label className="font-bold text-xl" htmlFor="">
           Name:
         </label>

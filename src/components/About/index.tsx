@@ -18,7 +18,7 @@ const About = () => {
   return (
     <div className=" bg-black text-white py-10">
       <div
-        className={`mx-6 transition-opacity opacity-0 duration-1000 delay-300 ease-in-out ${
+        className={`bg-black text-white py-10 mx-6 transition-opacity opacity-0 duration-1000 delay-300 ease-in-out ${
           scrollTop ? "opacity-100" : " opacity-0 ease-out"
         }`}
       >
