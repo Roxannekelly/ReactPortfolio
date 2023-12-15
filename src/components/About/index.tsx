@@ -1,4 +1,5 @@
 import React, { useEffect, useState, useRef, ChangeEvent } from "react";
+import Portfolio from "../Portfolio";
 const Resume = require("../../assets/Resume.pdf");
 
 const About = () => {
@@ -16,7 +17,7 @@ const About = () => {
     };
   }, []);
   return (
-    <div className=" bg-black text-white py-10">
+    <div className=" bg-black text-white py-8">
       <div
         className={`bg-black text-white py-10 mx-6 transition-opacity opacity-0 duration-1000 delay-300 ease-in-out ${
           scrollTop ? "opacity-100" : " opacity-0 ease-out"
@@ -25,11 +26,11 @@ const About = () => {
         <div className="lg:flex justify-evenly lg:mx-20">
           <div className="">
             <div className="py-4">
-              <h1 className="uppercase text-7xl font-extrabold pb-16 ">
+              <h1 className="uppercase text-5xl font-extrabold pb-16 ">
                 Hello <span className="block">I'm Roxanne</span>
               </h1>
             </div>
-            <div className="flex flex-row text-4xl justify-around uppercase">
+            <div className="flex flex-row text-xl justify-around uppercase">
               <p>
                 I USE MY PASSION AND SKILLS TO CREATE AMAZING DIGITAL PRODUCTS
                 AND SOFTWARE DEVELOPMENT. I HAVE WORKED AND INTERN WITH SEVERAL

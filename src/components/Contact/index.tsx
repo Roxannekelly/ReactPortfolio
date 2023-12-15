@@ -6,14 +6,14 @@ const Contact = () => {
       <h1 className="uppercase text-center text-5xl font-extrabold pb-16 "></h1>
       <div className="mx-4 lg:m-32">
         <h1 className="uppercase mb-4 font-bold text-6xl">Reach Out to us</h1>
-        <p className="text-5xl text-left">
+        <p className="text-3xl text-left">
           Feel free to get in touch with me. I am always open to discussing new
           projects, creative ideas or opportunities to be part of your visions.{" "}
         </p>
 
         <div className="my-6">
           <h2 className="uppercase text-3xl font-semibold"> Mail Me</h2>
-          <h2 className="font-bold text-2xl">Roxannekel71@gmail.com</h2>
+          <h2 className=" text-2xl">Roxannekel71@gmail.com</h2>
         </div>
 
         <div className="flex space-x-2 py-2 my-4">

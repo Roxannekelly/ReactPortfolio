@@ -8,14 +8,14 @@ const Footer = () => {
           <a
             href="https://www.instagram.com/roxanne_kelly1/"
             type="button"
-            className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-12 h-12 m-1"
+            className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-10 h-10 m-1"
           >
             <svg
               aria-hidden="true"
               focusable="false"
               data-prefix="fab"
               data-icon="instagram"
-              className=" w-6 h-full mx-auto"
+              className=" w-4 h-full mx-auto"
               role="img"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 448 512"
@@ -30,14 +30,14 @@ const Footer = () => {
           <a
             href="https://www.linkedin.com/in/roxanne-kelly"
             type="button"
-            className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-12 h-12 m-1"
+            className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-10 h-10 m-1"
           >
             <svg
               aria-hidden="true"
               focusable="false"
               data-prefix="fab"
               data-icon="linkedin-in"
-              className="w-6 h-full mx-auto"
+              className="w-4 h-full mx-auto"
               role="img"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 448 512"
@@ -52,14 +52,14 @@ const Footer = () => {
           <a
             href="https://github.com/Roxannekelly"
             type="button"
-            className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-12 h-12 m-1"
+            className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-10 h-10 m-1"
           >
             <svg
               aria-hidden="true"
               focusable="false"
               data-prefix="fab"
               data-icon="github"
-              className="w-6 h-full mx-auto"
+              className="w-4 h-full mx-auto"
               role="img"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 496 512"
@@ -72,7 +72,7 @@ const Footer = () => {
           </a>
         </div>
 
-        <div className="text-center text-2xl">
+        <div className="text-center text-xl">
           © 2023 Copyright
           <a className="text-white" href=""></a>
         </div>

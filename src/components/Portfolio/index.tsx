@@ -2,24 +2,9 @@ import React, { useEffect, useState } from "react";
 const Plant = require("../../assets/Plant.jpg");
 const Starbuck = require("../../assets/Starbuck.png");
 const Portfolio = () => {
-  const [scrollTop, setScrollTop] = useState(0);
-
-  useEffect(() => {
-    const handleScroll = () => {
-      setScrollTop(window.scrollY);
-    };
-
-    window.addEventListener("scroll", handleScroll);
-
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-    };
-  }, []);
   return (
     <div
-      className={`bg-black text-white py-10 transition-opacity opacity-0 duration-1000 delay-300 ease-in-out ${
-        scrollTop ? "opacity-100" : " opacity-0 ease-out"
-      }`}
+      className={`bg-black text-white py-10 transition-opacity opacity-100 duration-1000 delay-300 ease-in-out `}
     >
       <h1 className="uppercase text-center text-5xl font-extrabold pb-16 "></h1>
       <div>
