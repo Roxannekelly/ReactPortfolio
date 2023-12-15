@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.006b01da.css",
+    "main.js": "/ReactPortfolio/static/js/main.32c84f0f.js",
+    "static/media/Plant.jpg": "/ReactPortfolio/static/media/Plant.c496c003855756d09cb3.jpg",
+    "static/media/Resume.pdf": "/ReactPortfolio/static/media/Resume.39352cac2e6f590508c0.pdf",
+    "static/media/Starbuck.png": "/ReactPortfolio/static/media/Starbuck.89f0e377b3aac357aed5.png",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.006b01da.css.map": "/ReactPortfolio/static/css/main.006b01da.css.map",
+    "main.32c84f0f.js.map": "/ReactPortfolio/static/js/main.32c84f0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.006b01da.css",
+    "static/js/main.32c84f0f.js"
+  ]
+}
