@@ -40,7 +40,7 @@ const About = () => {
             </div>
             <div className="flex justify-center py-4 my-10">
               <a href={Resume}>
-                <button className="block px-8 h-16 py-4 bg-slate-700  text-white font-medium text-lg leading-tight uppercase rounded-full shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">
+                <button className="block px-6 h-16 py-4 bg-slate-700  text-white font-medium text-lg leading-tight uppercase rounded-full shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">
                   {" "}
                   Download CV{" "}
                 </button>
