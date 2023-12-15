@@ -1,4 +1,5 @@
 import React, { useEffect, useState, useRef, ChangeEvent } from "react";
+import Portfolio from "../Portfolio";
 const Resume = require("../../assets/Resume.pdf");
 
 const About = () => {

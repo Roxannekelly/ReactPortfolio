@@ -6,7 +6,7 @@ import NavBar from "./Nav";
 const Header = () => {
  
   return (
-    <div className="w-full lg:flex mt-20 border-4 border-red-700"
+    <div className="w-full lg:flex py-4 mt-20"
     >
       <NavBar />
       <div className="flex h-screen w-full text-gray-50 scroll-smooth">
