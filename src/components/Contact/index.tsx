@@ -98,7 +98,7 @@ const Contact = () => {
         />
       </div>
       <div className="flex justify-center py-4">
-        <button className="inline-block h-16 px-8 py-4 bg-slate-700 text-white font-medium text-lg leading-tight uppercase rounded-full shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">
+        <button className="inline-block h-16 px-6 py-4 bg-slate-700 text-white font-medium text-lg leading-tight uppercase rounded-full shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">
           {" "}
           Send Message
         </button>
