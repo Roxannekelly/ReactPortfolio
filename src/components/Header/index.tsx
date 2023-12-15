@@ -6,19 +6,19 @@ import NavBar from "./Nav";
 const Header = () => {
  
   return (
-    <div className="mt-28 lg:flex"
+    <div className="w-full lg:flex mt-20 border-4 border-red-700"
     >
       <NavBar />
       <div className="flex h-screen w-full text-gray-50 scroll-smooth">
         <div className="flex-1 bg-hero bg-cover bg-center bg-no-repeat">
           <div className="px-2 space-y-9  lg:flex lg:py-10 lg:justify-center">
             <div className="py-6">
-              <h1 className="uppercase font-bold text-7xl lg:text-[10rem]">
+              <h1 className="uppercase font-bold text-5xl lg:text-[8rem]">
                 Designer/<span className="block">Developer</span>
               </h1>
             </div>
             <div className="lg:px-36 lg:pt-20 text-left">
-              <p className="pb-6 text-left text-3xl lg:text-5xl lg:leading-tight font-medium leading-normal">
+              <p className="pb-6 text-left text-xl lg:text-3xl lg:leading-tight font-medium leading-normal">
                 {" "}
                 I AM A REACT DEVELOPER AND GRAPHIC DESIGNER BASED IN JAMAICA. I
                 HAVE ONE YEAR OF EXPERIENCE IN CRAFTING CLEAN & USER-FRIENDLY

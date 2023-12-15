@@ -25,11 +25,11 @@ const About = () => {
         <div className="lg:flex justify-evenly lg:mx-20">
           <div className="">
             <div className="py-4">
-              <h1 className="uppercase text-7xl font-extrabold pb-16 ">
+              <h1 className="uppercase text-5xl font-extrabold pb-16 ">
                 Hello <span className="block">I'm Roxanne</span>
               </h1>
             </div>
-            <div className="flex flex-row text-4xl justify-around uppercase">
+            <div className="flex flex-row text-xl justify-around uppercase">
               <p>
                 I USE MY PASSION AND SKILLS TO CREATE AMAZING DIGITAL PRODUCTS
                 AND SOFTWARE DEVELOPMENT. I HAVE WORKED AND INTERN WITH SEVERAL
