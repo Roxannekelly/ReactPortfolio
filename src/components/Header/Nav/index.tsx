@@ -2,12 +2,12 @@ import React from 'react'
 
 const NavBar = () => {
   return (
-    <div className='border-b-4 flex justify-between px-4 bg-hero text-white opacity-90 z-40 backdrop-blur fixed top-0 w-full shadow-md py-4'>
+    <div className='flex border-b-2 justify-between px-4 bg-hero text-white opacity-90 z-40 backdrop-blur fixed top-0 w-full shadow-md py-4'>
         <div className=''>
-            <h2 className='text-2xl font-bold'>Roxanne Kelly</h2>
-            <h1 className='text-3xl uppercase font'>Graphic Designer/ Developer</h1>
+            <h2 className='text-lg font-bold'>Roxanne Kelly</h2>
+            <h1 className='uppercase font text-xl'>Graphic Designer/ Developer</h1>
         </div>
-        <div className='space-x-3 text-xl font-semibold'> 
+        <div className='space-x-3 text-lg font-semibold'> 
             <span> portfolio</span>
             <span>about</span>
             <span>contact</span>
